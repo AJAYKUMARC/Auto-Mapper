@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectMapper", "ObjectMapper.csproj", "{8162B48B-F963-41AD-A196-20CB5E9864FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8162B48B-F963-41AD-A196-20CB5E9864FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8162B48B-F963-41AD-A196-20CB5E9864FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8162B48B-F963-41AD-A196-20CB5E9864FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8162B48B-F963-41AD-A196-20CB5E9864FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8A2050-A62C-4899-AA38-491A9FF57BB6}
+	EndGlobalSection
+EndGlobal
